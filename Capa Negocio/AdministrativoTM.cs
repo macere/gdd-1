@@ -7,7 +7,7 @@ using System.Data;
 
 namespace Clinica_frba.CapaNegocio
 {
-    class AdministrativoTM : TableModule
+    class AdministrativoTM
     {
         CapaDatos.AdministrativoTDG admTDG;
         
