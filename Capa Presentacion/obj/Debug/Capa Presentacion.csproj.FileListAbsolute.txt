@@ -1,0 +1,26 @@
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\obj\Debug\Clinica_Frba.CapaPresentacion.Properties.Resources.resources
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\coto\Documents\GitHub\gdd\Capa Presentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Clinica_Frba.CapaPresentacion.Properties.Resources.resources
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Clinica_Frba.NewFolder12.Afiliado.resources
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Clinica_Frba.CapaPresentacion.Abm_de_Afiliado.Alta_Afiliado.resources
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Clinica_Frba.CapaPresentacion.Abm_de_Afiliado.Modificacion_Afiliado.resources
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Presentacion\obj\Debug\Clinica_Frba.CapaPresentacion.Abm_de_Afiliado.Modificacion_AfiliadoB.resources

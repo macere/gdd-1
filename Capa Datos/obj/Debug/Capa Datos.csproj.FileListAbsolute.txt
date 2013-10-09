@@ -1,0 +1,10 @@
+C:\Users\coto\Documents\GitHub\gdd\Capa Datos\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Datos\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\GitHub\gdd\Capa Datos\obj\Debug\CapaDatos.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Datos\obj\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Datos\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Datos\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Datos\obj\Debug\CapaDatos.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Datos\obj\Debug\CapaDatos.pdb

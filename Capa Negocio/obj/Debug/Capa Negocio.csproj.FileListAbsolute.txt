@@ -1,0 +1,14 @@
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\bin\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\bin\Debug\CapaNegocio.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\obj\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\GitHub\gdd\Capa Negocio\obj\Debug\CapaNegocio.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\bin\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\bin\Debug\CapaNegocio.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\bin\Debug\CapaDatos.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\bin\Debug\CapaDatos.pdb
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\obj\Debug\CapaNegocio.dll
+C:\Users\coto\Documents\UTN\G DATOS\TP_GDD\DESARROLLO\Capa Negocio\obj\Debug\CapaNegocio.pdb
