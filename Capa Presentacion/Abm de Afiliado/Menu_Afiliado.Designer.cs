@@ -28,76 +28,79 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.lbl_MenuAfiliado = new System.Windows.Forms.Label();
+            this.btn_Alta = new System.Windows.Forms.Button();
+            this.btn_Baja = new System.Windows.Forms.Button();
+            this.btn_Modificar = new System.Windows.Forms.Button();
+            this.btn_Cancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lbl_MenuAfiliado
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(3, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(180, 15);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Operaciones sobre Afiliado";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.lbl_MenuAfiliado.AutoSize = true;
+            this.lbl_MenuAfiliado.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_MenuAfiliado.Location = new System.Drawing.Point(3, 9);
+            this.lbl_MenuAfiliado.Name = "lbl_MenuAfiliado";
+            this.lbl_MenuAfiliado.Size = new System.Drawing.Size(180, 15);
+            this.lbl_MenuAfiliado.TabIndex = 0;
+            this.lbl_MenuAfiliado.Text = "Operaciones sobre Afiliado";
+           
             // 
-            // button1
+            // btn_Alta
             // 
-            this.button1.Location = new System.Drawing.Point(6, 53);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(60, 28);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Alta";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn_Alta.Location = new System.Drawing.Point(6, 53);
+            this.btn_Alta.Name = "btn_Alta";
+            this.btn_Alta.Size = new System.Drawing.Size(60, 28);
+            this.btn_Alta.TabIndex = 2;
+            this.btn_Alta.Text = "Alta";
+            this.btn_Alta.UseVisualStyleBackColor = true;
+            this.btn_Alta.Click += new System.EventHandler(this.btn_Alta_Click_1);
             // 
-            // button2
+            // btn_Baja
             // 
-            this.button2.Location = new System.Drawing.Point(6, 87);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(60, 28);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "Baja";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btn_Baja.Location = new System.Drawing.Point(6, 87);
+            this.btn_Baja.Name = "btn_Baja";
+            this.btn_Baja.Size = new System.Drawing.Size(60, 28);
+            this.btn_Baja.TabIndex = 3;
+            this.btn_Baja.Text = "Baja";
+            this.btn_Baja.UseVisualStyleBackColor = true;
+            this.btn_Baja.Click += new System.EventHandler(this.btn_Baja_Click);
             // 
-            // button3
+            // btn_Modificar
             // 
-            this.button3.Location = new System.Drawing.Point(6, 121);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(60, 28);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Modificar";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btn_Modificar.Location = new System.Drawing.Point(6, 121);
+            this.btn_Modificar.Name = "btn_Modificar";
+            this.btn_Modificar.Size = new System.Drawing.Size(60, 28);
+            this.btn_Modificar.TabIndex = 4;
+            this.btn_Modificar.Text = "Modificar";
+            this.btn_Modificar.UseVisualStyleBackColor = true;
+            this.btn_Modificar.Click += new System.EventHandler(this.btn_Modificar_Click);
             // 
-            // button4
+            // btn_Cancelar
             // 
-            this.button4.Location = new System.Drawing.Point(207, 227);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(65, 23);
-            this.button4.TabIndex = 5;
-            this.button4.Text = "cancelar";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btn_Cancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btn_Cancelar.Location = new System.Drawing.Point(207, 227);
+            this.btn_Cancelar.Name = "btn_Cancelar";
+            this.btn_Cancelar.Size = new System.Drawing.Size(65, 23);
+            this.btn_Cancelar.TabIndex = 5;
+            this.btn_Cancelar.Text = "cancelar";
+            this.btn_Cancelar.UseVisualStyleBackColor = true;
+            this.btn_Cancelar.Click += new System.EventHandler(this.btn_Cancelar_Click);
             // 
             // Afiliado
             // 
             this.AccessibleName = "Afiliado";
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.CancelButton = this.button4;
+            this.CancelButton = this.btn_Cancelar;
             this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btn_Cancelar);
+            this.Controls.Add(this.btn_Modificar);
+            this.Controls.Add(this.btn_Baja);
+            this.Controls.Add(this.btn_Alta);
+            this.Controls.Add(this.lbl_MenuAfiliado);
             this.Name = "Afiliado";
             this.Text = "Afiliado";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -105,11 +108,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label lbl_MenuAfiliado;
+        private System.Windows.Forms.Button btn_Alta;
+        private System.Windows.Forms.Button btn_Baja;
+        private System.Windows.Forms.Button btn_Modificar;
+        private System.Windows.Forms.Button btn_Cancelar;
 
     }
 }

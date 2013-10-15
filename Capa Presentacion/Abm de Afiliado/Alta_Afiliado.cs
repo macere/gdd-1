@@ -16,9 +16,27 @@ namespace Clinica_Frba.CapaPresentacion.Abm_de_Afiliado
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn_Limpiar_Click(object sender, EventArgs e)
         {
-
+            txt_Nombre.Clear();
+            txt_Apellido.Clear();
+            cmb_Sexo.SelectedIndex = -1;
+            mtx_DNI.Clear();
+            mtx_FecNacimiento.Clear();
+            txt_Direccion.Clear();
+            txt_Mail.Clear();
+            mtx_Telefono.Clear();
+            cmb_EstCivil.SelectedIndex = -1;
+            mtx_Hijos.Clear();
+            mtx_aCargo.Clear();
+            mtx_Plan.Clear();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+       
     }
 }
